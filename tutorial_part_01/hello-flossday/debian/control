@@ -1,0 +1,13 @@
+Source: hello-flossday
+Section: misc
+Priority: optional
+Maintainer: Tiago Bortoletto Vaz <tiago@debian.org>
+Build-Depends: debhelper (>= 13)
+
+Package: hello-flossday
+Architecture: all
+Depends: python3
+Description: Vanier FLOSS Day hello world
+ A package written in Python that prints a greeting.
+ .
+ Made for Vanier FLOSS Day 2024.

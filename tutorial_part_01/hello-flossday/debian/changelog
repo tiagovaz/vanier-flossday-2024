@@ -1,0 +1,5 @@
+hello-flossday (0.1-1) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- Tiago Bortoletto Vaz <tiago@debian.org>  Mon, 14 Oct 2024 18:56:25 -0400
