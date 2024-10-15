@@ -21,6 +21,3 @@
 
 ### Check the metadata of the installed package in your system:
     $ apt show hello-flossday
-
-### Uninstall the package from your system
-    $ sudo apt remove hello-flossday
