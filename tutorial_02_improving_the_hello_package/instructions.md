@@ -6,7 +6,8 @@
 ### Load those variables by re-running your .bashrc:
     $ . ~/.bashrc
 
-### Edit the debian/control file in order to make this hello-flossday-ng package to "conflict" and "replace" the old hello-flossday.
+### Edit the debian/control file in order to make this hello-flossday-ng
+package to "conflict" and "replace" the old hello-flossday. See https://www.debian.org/doc/manuals/debian-faq/pkg-basics.en.html#controlfile
 
 ### Build hello-flossday-ng package:
     $ dpkg-buildpackage -b
