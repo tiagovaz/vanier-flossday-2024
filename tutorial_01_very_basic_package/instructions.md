@@ -1,5 +1,5 @@
 ### Install the basic tools for this tutorial:
-    $ sudo apt install build-essential devscripts debhelper tree
+    $ sudo apt install build-essential devscripts debhelper tree git
 
 ### Check the content of all files in debian/ and ask questions if there's anything you don't understand.
 

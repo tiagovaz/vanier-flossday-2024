@@ -7,8 +7,8 @@ build:
 	@ # Do nothing
 
 binary:
-	mkdir -p debian/hello-flossday/usr/bin
-	cp hello.py debian/hello-flossday/usr/bin/hello-flossday
-	chmod 755 debian/hello-flossday/usr/bin/hello-flossday
+	mkdir -p debian/hello-flossday-ng/usr/bin
+	cp hello.py debian/hello-flossday-ng/usr/bin/hello-flossday
+	chmod 755 debian/hello-flossday-ng/usr/bin/hello-flossday
 	dh_gencontrol
 	dh_builddeb
