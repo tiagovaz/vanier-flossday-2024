@@ -23,7 +23,7 @@
 
 ### Build the new version of hello-flossday-ng package and install it:
     $ dpkg-buildpackage -b
-    $ sudo dpkg -i ../hello-flossday_0.1-1.1_all.deb
+    $ sudo dpkg -i ../hello-flossday-ng_0.1-1.1_all.deb
 
 ### Run hello-flossday from the new package and see if the result is what you expected:
     $ hello-flossday
